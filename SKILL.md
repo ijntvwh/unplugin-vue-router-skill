@@ -1,8 +1,9 @@
 ---
 name: unplugin-vue-router-skill
-description: File-based typed routing for Vue 3 with automatic route generation from file structure. Use when: (1) Setting up or configuring unplugin-vue-router in a Vue project, (2) Understanding file-based routing structure and naming conventions, (3) Implementing type-safe routes with TypeScript, (4) Extending or modifying routes with custom configuration, (5) Troubleshooting routing issues or optimizing route organization
+description: File-based typed routing for Vue 3 with automatic route generation from file structure. Use when (1) Setting up or configuring unplugin-vue-router in a Vue project, (2) Understanding file-based routing structure and naming conventions, (3) Implementing type-safe routes with TypeScript, (4) Extending or modifying routes with custom configuration, (5) Troubleshooting routing issues or optimizing route organization
 version: 1.0.0
 license: MIT
+author: github.com/ijntvwh
 ---
 
 # Unplugin Vue Router
